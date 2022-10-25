@@ -1,0 +1,6 @@
+## Interface: 11403
+## Version: v1.1.0
+## Title: InspectKeybinding
+## Notes: Adds keybindings for inspecting.
+InspectKeybinding.lua
+bindings.xml
