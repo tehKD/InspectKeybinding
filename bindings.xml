@@ -1,8 +1,8 @@
 <Bindings>
-	<Binding name="Inspect Target" header="INSPECT">
+	<Binding name="Inspect Target" header="INSPECT" category="InspectKeybinding">
 	   InspectUnit("target")
     </Binding>
-	<Binding name="Inspect Mouse Over">
+	<Binding name="Inspect Mouse Over" category="InspectKeybinding">
 	   InspectUnit("mouseover")
     </Binding>
 </Bindings>
