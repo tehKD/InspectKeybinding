@@ -1,5 +1,5 @@
-## Interface: 100005
-## Version: v1.3.3
+## Interface: 100007
+## Version: v1.3.4
 ## Title: InspectKeybinding
 ## Notes: Adds keybindings for inspecting.
 InspectKeybinding.lua
