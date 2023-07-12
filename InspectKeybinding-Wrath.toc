@@ -1,5 +1,5 @@
-## Interface: 30401
-## Version: v1.3.4
+## Interface: 30402
+## Version: v1.3.7
 ## Title: InspectKeybinding
 ## Notes: Adds keybindings for inspecting.
 InspectKeybinding.lua
