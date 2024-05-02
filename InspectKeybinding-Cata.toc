@@ -1,0 +1,5 @@
+## Interface: 40400
+## Version: v1.4.7
+## Title: InspectKeybinding
+## Notes: Adds keybindings for inspecting.
+InspectKeybinding.lua
